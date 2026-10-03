@@ -33,7 +33,7 @@ dependencyResolutionManagement {
 Add the SDK to your app `build.gradle`:
 
 ```gradle
-implementation 'com.github.Twittpay:twittpay-android-sdk:v2.3.0'
+implementation 'com.github.Twittpay:twittpay-android-sdk:v2.3.1'
 ```
 
 Internet permission and the checkout screen are added to your manifest automatically.
